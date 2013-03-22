@@ -1,0 +1,19 @@
+TILES
+- Forest
+- Grass
+- Low grass
+- Sand
+- Water
+
+UNIDADES
+
+- 64x64 todas
+- ayudaria al hacer que parezcan iso????
+- unidades deben ser en cualquier direccion lo mas rellenas posible
+
+SONIDOS
+
+1	(1)death	death
+2	(1)ready	unit built
+3 	(3)order	order
+4	(3)select	select

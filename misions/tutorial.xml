@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mision name = "Tutorial" map = "maps/campains/tutorial.map">
+	<allied>
+		<unit type = "fragata" uid = "0" x = "80" y = "70">
+		</unit>
+		<unit type = "corbeta" uid = "0" x = "80" y = "72">
+		</unit>
+		<unit type = "misilera" uid = "0" x = "80" y = "75">
+		</unit>
+		<unit type = "auxiliar" uid = "0" x = "84" y = "73">
+		</unit>
+		<unit type = "sub" uid = "0" x = "83" y = "75">
+		</unit>
+		<unit type = "guarda" uid = "0" x = "90" y = "20">
+		</unit>
+	</allied>
+	<enemy>
+		<unit type = "misilera" uid = "0" x = "16" y = "8">
+		</unit>
+		<unit type = "corbeta" uid = "1" x = "18" y = "6">
+		</unit>
+		<unit type = "corbeta" uid = "2" x = "18" y = "10">
+		</unit>
+	</enemy>
+</mision>

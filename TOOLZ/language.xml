@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<translation author = "Brian">
+
+	<language type = "spanish">
+		<string>Nuevo Juego</string>
+		<string>Cargar Juego</string>
+		<string>Opciones</string>
+		<string>Créditos</string>
+		<string>Salir</string>
+	</language>
+	
+	<language type = "english">
+		<string data = "New Game">
+		</string>
+		<string data = "Load Game">
+		</string>
+		<string data = "Options">
+		</string>
+		<string data = "Credits">
+		</string>
+		<string data = "Quit">
+		</string>
+	</language>
+
+	<language type = "francais">
+		<string data = "Noveu Joue">
+		</string>
+		<string data = "Carger Joue">
+		</string>
+		<string data = "Options">
+		</string>
+		<string data = "Credités">
+		</string>
+		<string data = "Quitter">
+		</string>
+	</language>
+	
+</translation>
